@@ -15,5 +15,8 @@ This project is doing for who are interesting about home loan.
 # Video Demo
 [![Video Demo](https://j.gifs.com/vQoWXM.gif)](https://youtu.be/dKASKGPv3kI)
 
+# Download
+* [loan-calculate](https://github.com/iamgique/loan-calculate/blob/master/file/loan-calculate.xlsx)
+
 # Support me
 [![Buy me a coffee](https://cdn.buymeacoffee.com/buttons/default-orange.png)](https://www.buymeacoffee.com/iamgique)
